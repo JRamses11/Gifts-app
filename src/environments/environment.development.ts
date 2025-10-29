@@ -5,5 +5,6 @@ export const environment = {
     companySlogan: 'Maneja tus Gifs',
 
     //API KEY GIPHY
-    apiKeyGifs: 'SruI9Lmog78EhCsrFleshtYtiNxwMbEs'
+    apiKeyGifs: 'SruI9Lmog78EhCsrFleshtYtiNxwMbEs',
+    giphyUrl: 'https://api.giphy.com/v1'
 };
